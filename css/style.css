@@ -183,7 +183,8 @@ a:hover {
     padding: 0;
 }
 .navbar-default {
-    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    /*background: rgba(0, 0, 0, 0) none repeat scroll 0 0;*/
+    background: #333 none repeat scroll 0 0;
     border: medium none;
     transition: all 0.35s ease 0s;
     -webkit-transition: all 0.35s ease 0s;
@@ -246,7 +247,7 @@ header {
 overflow:hidden;	 
 }
 header .header-content {
-   margin-top: 220px;
+   margin-top: 5px;
 }
 .header-content img {
     width: 100%;
@@ -321,7 +322,7 @@ header .header-content {
 	background-color: lightgray;
     background-size:10%;
     position:relative;
-    padding: 120px 0;
+    padding: 85px 0;
     width: 100%;   
 	overflow:hidden;
 }
@@ -349,7 +350,7 @@ header .header-content {
 	background-color: #E2E1E1;
     background-size:10%;
     position:relative;
-    padding: 120px 0;
+    padding: 85px 0;
     width: 100%;   
 	overflow:hidden;
 }
@@ -494,7 +495,7 @@ height:272px;
 /*-------- price --------------*/
 #Price
 {
-     padding: 120px 0 ;  
+     padding: 85px 0 ;  
      width: 100%;   
      position:relative;
 }
