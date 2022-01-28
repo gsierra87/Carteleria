@@ -236,7 +236,9 @@ nav.affix-top {
 /*-------- header css --------------*/
 
 header {
-    background:url("../img/acindar-planta.png") ;
+    /*background:url("../img/acindar-planta.png") ;*/
+    /*background:url("../img/orange3.jpg") ;*/
+    background:url("../img/acindar-planta-2.png") ;
     background-attachment:fixed;
     background-size:cover;
     height: 670px;
@@ -455,6 +457,32 @@ header .header-content {
 height:272px;
 }
 
+/*-------- Generales ---------- */
+.color_estandar_1{
+    background: #865f7f
+}
+
+.color_estandar_2{
+    background: #5c7f92;
+}
+
+.color_estandar_3{
+        
+    background:#70a489;
+}
+
+.color_estandar_4{
+    background: #c88e42;
+}
+
+.color_estandar_5{
+    background: #8b819e;
+}
+
+.color_estandar_6{
+    background: #9db1c9;
+}
+   
 /*-------- footer --------------*/
 #footer {
     background: #333 none repeat scroll 0 0;
